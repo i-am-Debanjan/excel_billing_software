@@ -5,6 +5,6 @@
 
 2.Enable macro for excel file Billing.xlsm
 
-3.Open shortcut file Billing 
+3.Open Billing.vbs file Billing 
 
 4. your software is ready to use
